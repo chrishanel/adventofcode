@@ -55,7 +55,6 @@ class Solution(TextSolution):
 
     # @answer(1234)
     def part_1(self) -> int:
-        return('hohoho')
         toggle = True
         disk = []
         diskIdx = 0
